@@ -27,3 +27,6 @@
 
 # Dotenv and similar local-only files
 *.local
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
